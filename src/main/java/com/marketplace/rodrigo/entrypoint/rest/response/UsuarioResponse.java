@@ -16,4 +16,5 @@ public class UsuarioResponse implements Serializable {
     private String nome;
     private String email;
     private LocalDateTime dataCriacao;
+    private int ativo;
 }
